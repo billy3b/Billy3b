@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avinash roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash roy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/billy b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="billy b" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/avinash roy](https://www.linkedin.com/in/avinashroy15)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash roy" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/billy b](https://stackoverflow.com/users/20423486/billy-b)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="billy b" height="30" width="40" /></a>
 <a href="https://instagram.com/avinash_144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avinash_144" height="30" width="40" /></a>
 </p>
 
