@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Avinash Roy</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=billy3b&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **react, node, Firebase**
 
 - 📫 How to reach me **avinashroy45678@gmail.com**
 
