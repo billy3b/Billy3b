@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **react, node, Firebase**
+- 💬 Ask me about **React/Next.Js Node.Js, Firebase**
 
 - 📫 How to reach me **avinashroy45678@gmail.com**
 
