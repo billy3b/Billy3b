@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Roy</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3900&pause=973&background=286BFF00&center=true&vCenter=true&width=450&height=60&lines=Computer+Science+Student;A+Passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 
 - 🌱 I’m currently learning **DSA**
